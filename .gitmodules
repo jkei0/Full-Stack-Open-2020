@@ -1,3 +1,6 @@
 [submodule "Full-stack-osa9"]
 	path = Full-stack-osa9
 	url = https://github.com/jkei0/Full-stack-osa9.git
+[submodule "Full-stack-osa10"]
+	path = Full-stack-osa10
+	url = https://github.com/jkei0/Full-stack-osa10.git
